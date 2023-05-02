@@ -1,0 +1,12 @@
+/*this is my first code in css*/
+body {
+   background-color: white;
+   
+}
+
+p {
+    background-color: rgb(29, 126, 39);
+    border: 2px solid rgb(7, 66, 74);
+    padding: 30px;
+    margin: 20px;
+}
